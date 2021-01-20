@@ -1,0 +1,1 @@
+web: gunicorn obese.wsgi --log-file -
